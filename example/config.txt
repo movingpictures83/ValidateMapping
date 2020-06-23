@@ -1,0 +1,2 @@
+Prefix plugins/ValidateMapping/example
+Plugin ValidateMapping inputfile Mapping_file.txt outputfile output
