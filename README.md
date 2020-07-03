@@ -1,8 +1,9 @@
 # ValidateMapping
 # Language: C++
 # Input: TXT
-# Output: TXT
+# Output: Prefix
 # Tested with: PluMA 1.0, GCC 4.8.4
+# Dependency: Qiime 1.9.1, Python 2.7
 
 Validate a mapping file matches FASTQ data using Qiime (Caporaso et al, 2010)
 
